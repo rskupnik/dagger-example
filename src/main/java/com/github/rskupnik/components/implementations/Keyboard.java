@@ -1,4 +1,4 @@
-package com.github.rskupnik;
+package com.github.rskupnik.components.implementations;
 
 import javax.inject.Inject;
 
