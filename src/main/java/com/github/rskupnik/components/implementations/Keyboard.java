@@ -2,7 +2,7 @@ package com.github.rskupnik.components.implementations;
 
 import javax.inject.Inject;
 
-public final class Keyboard {
+public class Keyboard {
 
     @Inject
     public Keyboard() {

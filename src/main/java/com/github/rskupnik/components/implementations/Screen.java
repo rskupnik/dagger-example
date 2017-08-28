@@ -2,7 +2,7 @@ package com.github.rskupnik.components.implementations;
 
 import javax.inject.Inject;
 
-public final class Screen {
+public class Screen {
 
     @Inject
     public Screen() {
