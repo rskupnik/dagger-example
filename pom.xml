@@ -35,7 +35,6 @@
             <version>2.11</version>
           </path>
         </annotationProcessorPaths>
-        <forceJavacCompilerUse>true</forceJavacCompilerUse>
       </configuration>
     </plugin>
     </plugins>

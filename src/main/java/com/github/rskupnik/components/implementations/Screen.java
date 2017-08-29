@@ -10,6 +10,6 @@ public class Screen {
     }
 
     public void print(String s) {
-        System.out.println(s);
+        System.out.println("=== " + s + " ===");
     }
 }
